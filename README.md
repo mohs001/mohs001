@@ -9,7 +9,7 @@
 ### :man_technologist: About Me :
 - :telescope: I’m full-stack web developer.
 - :zap: In my free time, I solve problems on Zindi and build personal projects.
-- :mailbox:Reach me on: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-elhag/)
+- :mailbox:Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-Mohsen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-elhag/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
